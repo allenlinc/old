@@ -1,5 +1,5 @@
 {
-    "name":"allenlinc/demo",
+    "name":"allenlinc/old",
     "description":"The Composer Demo",
     "type":"project",
     "keywords":["DEMO"],
@@ -19,7 +19,7 @@
             "irc":"irc://irc.freenode.org/allenlinc"
     },
     "require": {
-        "allenlinc/demo":"*",
+        "allenlinc/old":"*",
         "noahbuscher/macaw" : "dev-master"
     }
 }
