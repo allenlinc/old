@@ -1,0 +1,25 @@
+{
+    "name":"allenlinc/demo",
+    "description":"The Composer Demo",
+    "type":"project",
+    "keywords":["DEMO"],
+    "homepage":"http://www.p2cn.com",
+    "time":"2017-06-03",
+    "license":"proprietary",
+    "authors":[
+            {
+                    "name":"AllenLi",
+                    "email":"allenlinc@gmail.com",
+                    "homepage":"http://www.p2cn.com",
+                    "role":"Developer"
+            }
+    ],
+    "support":{
+            "email":"allenlinc@gmail.com",
+            "irc":"irc://irc.freenode.org/allenlinc"
+    },
+    "require": {
+        "allenlinc/demo":"*",
+        "noahbuscher/macaw" : "dev-master"
+    }
+}
